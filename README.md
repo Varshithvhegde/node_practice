@@ -26,3 +26,7 @@ npm install <package_name> --save
 npm install <package_name> --save-dev
 npm install <package_name> -g
 ```
+
+## What is Asynchronous programming?
+
+- Asynchronous programming is a style of programming where multiple tasks can run concurrently.
